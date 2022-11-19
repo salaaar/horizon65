@@ -1,0 +1,11 @@
+[
+  { "Items": ["VOUCHER", "VOUCHER"], "Total": 5.0 },
+  {
+    "Items": ["TSHIRT", "TSHIRT", "TSHIRT"],
+    "Total": 57.0
+  },
+  {
+    "Items": ["TSHIRT", "TSHIRT", "TSHIRT", "VOUCHER", "VOUCHER"],
+    "Total": 62.0
+  }
+]
